@@ -84,7 +84,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index-2.php"><h3>E-Buspass</h3>
+                        <a class="navbar-brand" href="index-2.php"><h3>E-Buspass available here!</h3>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
                         <button class="close-navbar"><i class="fa fa-close"></i></button>
